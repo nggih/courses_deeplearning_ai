@@ -1,1 +1,2 @@
-# langchain-llm-app-dev
+# LLM Courses from deeplearning.ai (free for limited time)
+
